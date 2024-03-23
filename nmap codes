@@ -1,0 +1,4 @@
+nmap -sV google.com
+nmap -O google.com
+nmap –-script vuln google.com
+nmap –A google.com
